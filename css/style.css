@@ -1,0 +1,223 @@
+a {
+text-decoration: none;
+}
+
+body {
+font-family: 'Inter', sans-serif;
+}
+
+.menu {
+text-align: center;
+padding-top: 50px;
+}
+
+.news_date {
+margin: 10px;
+text-align: center;
+margin-top: 50px;
+}
+
+.content {
+margin: 0 auto;
+background: #f5f5f5;
+}
+
+#cactus1 {
+margin: 50px auto 0 auto;
+display: flex;
+border-radius: 20px;
+justify-content: space-around;
+width: 80%;
+}
+
+.button {
+margin: 0 20px;
+color: #9193a2;
+}
+
+h1 {
+text-align: center;
+color: #2C2B2E;
+font-size: 50px;
+}
+
+h2 {
+text-align: left;
+color: #2C2B2E;
+}
+
+.texts {
+max-width: 808px;
+display: block;
+margin: 0 auto;
+color: #6E7381;
+font-size: 20px;
+}
+
+#woman1 {
+width: 100%;
+margin: 0 auto;
+border-radius: 20px;
+justify-content: space-around;
+}
+
+.news {
+display: inline;
+background: #4746DA;
+color: white;
+padding: 10px;
+margin-right: 5px;
+}
+
+.data {
+display: inline;
+color: #AEB1B9;
+margin-left: 20px;
+}
+
+.text_cactus {
+display: inline-block;
+max-height: 500px;
+max-width: 50%;
+min-height: 505px;
+min-width: 50%;
+text-align: left;
+margin-right: 20px;
+position: relative;
+}
+
+.author {
+margin: 100px 0;
+font-size: 16px;
+}
+
+#avatar {
+width: 75px;
+height: 75px;
+border-radius: 100%;
+display: inline-block;
+margin-top: 30px;
+}
+
+.author_name {
+font-weight: bold;
+color: black;
+display: inline-block;
+position: relative;
+bottom: 50px;
+left: 20px;
+}
+
+.author_activity {
+font-weight: normal;
+color: #6E7381;
+font-size: 14px;
+}
+
+.text_cactus_img {
+position: relative;
+}
+
+.text_cactus {
+display: inline-block;
+max-height: 500px;
+max-width: 50%;
+min-height: 505px;
+min-width: 50%;
+text-align: left;
+margin-right: 20px;
+position: relative;
+}
+
+#cactus2 {
+max-width: 100%;
+max-height: 100%;
+border-radius: 10px;
+display: inline-block;
+position: relative;
+}
+
+.cactusimg {
+display: inline-block;
+max-width: 404px;
+max-height: 500px;
+position: absolute;
+}
+
+/*Нижние блоки(картиночки)*/
+.all_news {
+margin: auto;
+text-align: center;
+width: 100%;
+justify-content: space-around;
+}
+
+.text_new {
+order: 3px solid #000;
+}
+.items {
+text-align: center;
+display: inline-block;
+border-radius: 15px;
+margin: 5px 10px;
+max-width: 300px;
+height: 430px;
+    background: #fff;
+}
+.item_img {
+display: inline-block;
+height: 50px;
+width: 300px;
+}
+.kan {
+height: 250px;
+width: 100%;
+margin-top: 0px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+#item_news1 {
+padding: 10px 10px;
+text-align: center;
+margin-left: 50px;
+position: relative;
+bottom: 15px;
+width: 25%;
+background-color: rgb(197, 143, 143);
+color: white;
+}
+#item_news2 {
+padding: 10px 10px;
+text-align: center;
+margin-left: 50px;
+position: relative;
+bottom: 15px;
+width: 25%;
+background-color: rgb(143, 197, 179);
+color: white;
+}
+#item_news3 {
+padding: 10px 10px;
+text-align: center;
+margin-left: 50px;
+position: relative;
+bottom: 15px;
+width: 30%;
+background-color: rgb(192, 197, 149);
+color: white;
+}
+.low_text {
+margin-left: 15px;
+padding: 20px;
+text-align: left;
+}
+.name_ava {
+display: inline-block;
+background: #b879c5;
+padding: 15px;
+width: 7%;
+border-radius: 100%;
+}
+#n1{
+text-align: center;
+}
